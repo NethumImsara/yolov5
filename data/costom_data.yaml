@@ -1,5 +1,5 @@
-train: data/custom_dataset/images/train  # path to training images
-val: data/custom_dataset/images/val      # path to validation images
+train: data/custom_data/images/train  # path to training images
+val: data/custom_data/images/val      # path to validation images
 
 nc: 1  # number of classes
 names: ['chicken']  # class names
