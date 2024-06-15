@@ -1,0 +1,5 @@
+train: ../train_data/images/train/  # path to training images
+val: ../train_data/images/val/      # path to validation images
+
+nc: 1  # number of classes
+names: ['chicken']  # class names
